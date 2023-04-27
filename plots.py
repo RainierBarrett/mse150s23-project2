@@ -2,7 +2,6 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Define the directory where the AFM data files are stored
 data_dir = 'raw_data'
 
 methods = ['method 1', 'method 2', 'method 3', 'method A', 'method B', 'method C']
