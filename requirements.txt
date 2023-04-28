@@ -1,4 +1,7 @@
 
 numpy~=1.21.5
-
+More information about installing the numpy library can be found here.
+https://numpy.org/install/
 matplotlib~=3.5.2
+More information about installing the matplot lib library can be found here.
+https://matplotlib.org/stable/index.html
