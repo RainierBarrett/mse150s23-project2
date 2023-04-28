@@ -1,6 +1,7 @@
 # Which coating method best accomplishes the stated goal?
-The best coating method is methods 1/A. 
+The best coating method is method 1. 
 
 
 # How do you know? Justify your answer
-I came up with this answer because methods 1/A have the lowest standard deviation and the heat map is also mostly evenly distributed.
+I eliminated method 2 based on the heat maps because the center is obviously thicker and not evenly distributed. 
+Method 1 and 3 heat maps are similar, so I used the standard deviation to decide which method was better, and method 1 has the lowest standard deviation of them all.
