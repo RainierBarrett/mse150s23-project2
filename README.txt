@@ -26,4 +26,4 @@ Will print the average standard deviation of each method
 $ python average_height.py
 
 #What the user should expect
-Will plot all files average height along the vertical axis with the method type as the title
+Will plot all files average height along the vertical axis with the method type as the title and save the figure under the directory Average_height_plot
