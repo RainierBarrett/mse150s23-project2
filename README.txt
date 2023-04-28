@@ -9,3 +9,15 @@ $ pip install -r requirements.txt
 
 # An example of how to run the code, and what the user should expect
 $ python sample-image.py raw_data/*.AFMDAT
+
+#How to run the code:
+$ python plots.py
+
+#What the user should expect
+Will plot all files as a heatmap with the method type as the title
+
+#How to run the code:
+$ python analysis.py
+
+#What the user should expect
+Will print the average standard deviation of each method
