@@ -1,5 +1,5 @@
 # Which coating method best accomplishes the stated goal?
-
+The coating method is AFM, this best accomplishes the task by taking raw data files to be used for data plots for code. Working to distribute them using statistical analysis. 
 
 
 # How do you know? Justify your answer
