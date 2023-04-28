@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 data_dir = 'raw_data'
+save_dir = 'Average_height_plot'
 
 methods = ['Method 1', 'Method 2', 'Method 3', 'Method A', 'Method B', 'Method C', 'method 1', 'method 2', 'method 3', 'method A', 'method B', 'method C']
 colors = ['red', 'green', 'blue', 'black', 'yellow', 'purple', 'red', 'green', 'blue', 'black', 'yellow', 'purple']
@@ -20,5 +21,8 @@ for filename in os.listdir(data_dir):
         
         plt.plot(avg_heights, color=colors[methods.index(method)])
         plt.title(method)
+        plt.xlabel("Position")
+        plt.ylabel("Height (nm)")
+        plt.savefig(os.path.join(save_dir, method + ".png"))
         plt.show()
 
