@@ -27,3 +27,9 @@ $ python average_height.py
 
 #What the user should expect
 Will plot all files average height along the vertical axis with the method type as the title and save the figure under the directory Average_height_plot
+
+#How to run the code:
+$ python average_height2.py
+
+#What the user should expect
+Will plot the average of each method as a singular heat map
