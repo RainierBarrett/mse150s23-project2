@@ -14,13 +14,14 @@ $ python sample-image.py raw_data/*.AFMDAT
 $ python plots.py
 
 #What the user should expect
+-WARNING THIS WILL GENERATE ALL 99FILES-
 This script will plot all files as a heatmap with the method type as the title
 
 #How to run the code:
-$ python analysis.py
+$ python stdev.py
 
 #What the user should expect
-This script will print the average standard deviation of each method
+This script will print the average standard deviation of each method's coating height.
 
 #How to run the code:
 $ python average_height.py
