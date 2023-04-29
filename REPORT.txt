@@ -6,4 +6,5 @@ the center of the sample is visably thicker and less evenly distributed.
 compared to the other two methods. 
 Method 1 and 3 heat maps are similar, standard deviation of the distribution
  was used to decide which method was better, and method 1 had
- the lowest standard deviation of them all with a STDV of (fill in when calculated)
+ the lowest standard deviation of them all with a STDV of  0.8274230889111519 with
+method 2 being the worst with a STDV of 2.1814009493718154.
